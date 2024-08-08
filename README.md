@@ -1,5 +1,4 @@
-# Hola, mi nombre es Daniel Castro 👋
-## Castro_3034_tbr 
+# Castro_3034_tbr 
 ---
 ## Ingeneiro en Robotica 🤖
 ---
