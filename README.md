@@ -25,7 +25,7 @@
 
 ---
 
-## 📫 Contacto
+### 📫 Contacto
 
 Puedes encontrarme en las siguientes plataformas:
 
