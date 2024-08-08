@@ -1,9 +1,9 @@
 # Hola, mi nombre es Daniel Castro 👋
 ## Castro_3034_tbr 
 ---
-## Ingeneiro en Robotica
+## Ingeneiro en Robotica 🤖
 ---
-### Tecnologías y Herramientas que manejo
+### 🖥️ Tecnologías y Herramientas que manejo
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -23,7 +23,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+--- 
+### 📚 Proyectos
 
+---
+
+## 📫 Contacto
+
+Puedes encontrarme en las siguientes plataformas:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/daniel-castro-72937130a/)) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Castro-3034-tbr)
+[![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danielcastrogomezzz@gmail.com)
 
 
 
