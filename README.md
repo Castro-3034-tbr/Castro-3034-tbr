@@ -29,7 +29,7 @@
 
 Puedes encontrarme en las siguientes plataformas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/daniel-castro-72937130a/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/daniel-castro-72937130a/]) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Castro-3034-tbr)
 [![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danielcastrogomezzz@gmail.com)
 
