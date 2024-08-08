@@ -1,8 +1,9 @@
-# Hola, mi nombre es Daniel Castro 
-##tambien conocido como Castro_3034_tbr 
+# Hola, mi nombre es Daniel Castro 👋
+## Castro_3034_tbr 
 ---
 ## Ingeneiro en Robotica
 ---
+## Tecnologias 
 
 
 
