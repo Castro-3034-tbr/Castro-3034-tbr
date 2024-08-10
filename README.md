@@ -30,7 +30,7 @@
 
 Puedes encontrarme en las siguientes plataformas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/daniel-castro-72937130a/])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-castro-72937130a/)  Daniel Castro
 
 [![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danielcastrogomezzz@gmail.com) danielcastrogomezzz@gmail.com
 
