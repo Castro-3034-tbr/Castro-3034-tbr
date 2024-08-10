@@ -29,6 +29,7 @@
 ### 📫 Contacto
 
 Puedes encontrarme en las siguientes plataformas:
+Correo: danielcastrogomezzz@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/daniel-castro-72937130a/]) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Castro-3034-tbr)
