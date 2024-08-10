@@ -1,5 +1,6 @@
 # Castro_3034_tbr 
   ### Ingeneiro en Robotica 🤖
+  Estudiente del grado de Robotica de la USC
 
 ### 🖥️ Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
