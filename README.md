@@ -1,8 +1,8 @@
-<br clear="both">
+<h1 align="left">👩‍💻  About Me</h1>
 
-<div align="center">
-  <img height="100" src="https://github.com/Castro-3034-tbr/Castro-3034-tbr/blob/ce25fbd64f3e8b2b992a902c01768610c55b58ec/Imagenes/Baner.png"  />
-</div>
+###
+
+<p align="left">Ingeneiro en Robotica 🤖<br> <br>- 📚 Estudiante de el grado de Robotica en la USC<br>-  🖥️ Freelance</p>
 
 ###
 
@@ -17,14 +17,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="left">👩‍💻  About Me</h1>
-
-###
-
-<p align="left">Ingeneiro en Robotica 🤖<br> <br>- 📚 Estudiante de el grado de Robotica en la USC<br>-  🖥️ Freelance</p>
 
 ###
 
