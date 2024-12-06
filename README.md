@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Ingeneiro en Robotica 🤖<br> <br>- 📚 Estudiante de el grado de Robotica en la USC<br>- </p>
+<p align="left">Ingeneiro en Robotica 🤖<br> <br>- 📚 Estudiante de el grado de Robotica en la USC<br></p>
 
 ###
 
